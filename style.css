@@ -1,0 +1,15 @@
+body{
+    font-family:"Arial", Serif;
+    background-color: #151515;
+    color: #fafafa;
+    overflow-x:hidden;
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+  }
+
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
